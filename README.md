@@ -1,3 +1,3 @@
-# kyh-arbetsmetodik2-l3
+# KYH Arbetsmetodik 2 - Lektion 3
 
 Hej
